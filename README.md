@@ -1,6 +1,9 @@
+# _JavaScript DOM Assignments_
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/DOM Manipulation Assignments-Javascript-yellow" /> <img src="https://img.shields.io/badge/Course-Full%20Stack%20JavaScript%20Web%20Developer%20Bootcamp-brightgreen" /> <img src="https://img.shields.io/badge/Instructor-Hitesh%20Chowdhary%20Sir-orange" /><br>
+
 ![dom](https://user-images.githubusercontent.com/91872149/208902975-84d0eda5-2cc0-4704-852f-ee964535166b.png)
 
-<br><br>
+<br>
 
 ## _List Of JavaScript Assignments_
   - **_20 DOM Assignments from [Code Sandbox](https://codesandbox.io/s/dom-fsjs-fr34h2)_**
