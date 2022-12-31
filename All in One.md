@@ -144,7 +144,7 @@ btnStarted.addEventListener("mouseover", () => btnStarted.style.backgroundColor 
   'https://in.canon/assets/brand/logo-300-002e45a4aec98fd92899838da9d5560f.png'
 ```
 
-## _20. Website: [Oppo](https://www.samsung.com/in/offer/online/samsung-fest/)_
+## _20. Website: [Oppo](https://www.oppo.com/in/)_
 
 ```javascript
   document.querySelector('.product-card-content .desc').style.color = 'Orange'
