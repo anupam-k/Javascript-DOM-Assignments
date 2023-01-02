@@ -88,6 +88,13 @@ const btnStarted = document.querySelector(".btn-cta-big .login-btn-text")
 btnStarted.addEventListener("mouseover", () => btnStarted.style.backgroundColor = "red" )
 ````
 
+## _11. Website: [Realme](https://www.realme.com/in/)_
+
+```javascript
+document.getElementsByClassName(".a.logo.gtag").src = "%2Fimages%2Fineuron-logo.png&w=1920&q=75";
+'%2Fimages%2Fineuron-logo.png&w=1920&q=75'
+```
+
 ## _12. Website: [GitHub](https://github.com/)_
 
 ```javascript
